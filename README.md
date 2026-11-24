@@ -2,7 +2,7 @@
 
 🌿 Puno-Acocro PGA Farmers' Workshop in April 18 2026 🌿
 <details>
-<summary>📊 PGA Farmers Workshop (Puno-Acora) 슬라이드 보기 </summary>
+&nbsp;&nbsp; <summary>📊 PGA Farmers Workshop (Puno-Acora) 슬라이드 보기 </summary>
 <table>
 <tr>
 <td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acora_slidesImg/acora_01.PNG" alt="Acora Slide 1" width="100%"></td>
