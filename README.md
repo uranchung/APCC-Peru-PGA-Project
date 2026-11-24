@@ -28,8 +28,7 @@
 <td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acora_slidesImg/acora_15.PNG" alt="Acora Slide 15" width="100%"></td>
 <td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acora_slidesImg/acora_16.PNG" alt="Acora Slide 16" width="100%"></td>
 <td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acora_slidesImg/acora_17.PNG" alt="Acora Slide 17" width="100%"></td>
-  
-<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_18.PNG" alt="Acora Slide 18" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acora_slidesImg/acora_18.PNG" alt="Acora Slide 18" width="100%"></td>
 <td></td>
 </tr>
 </table>
