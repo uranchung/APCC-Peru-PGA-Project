@@ -6,7 +6,8 @@
 <details>
 <summary>📊 261020 PGA Farmers Workshop (Ayacucho) 슬라이드 보기</summary>
 
-![Slide 1](../2026_PGA_Workshop-Oct/2026_FarmerWS_Acocro_slides/acocro_slide_01.PNG)
+![Slide 1](./2026_PGA_Workshop-Oct/2026_FarmerWS_Acocro_slides/acocro_slide_01.PNG) #
+
 [./2026_PGA_Workshop-Oct/2026_FarmerWS_Acocro_slides/acocro_slide_02.png]
 [./2026_PGA_Workshop-Oct/2026_FarmerWS_Acocro_slides/acocro_slide_03.png]
 
