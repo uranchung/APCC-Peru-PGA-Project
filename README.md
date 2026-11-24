@@ -1,8 +1,6 @@
 # 🌾 2026 PGA Farmers' Workshop in each PGA sites
 🌿 Ayacucho-Acocro PGA Farmers' Workshop in October 20 2026 🌿
 
-### This workshop will teach you the GDD calculation process. Specifically, 
-
 <details>
 <summary>📊 261020 PGA Farmers Workshop (Ayacucho) 슬라이드 보기</summary>
 
