@@ -1,5 +1,40 @@
 # 🌾 2026 PGA Farmers' Workshop in each PGA sites
 
+🌿 Puno-Acocro PGA Farmers' Workshop in April 18 2026 🌿
+<details>
+<summary>📊 PGA Farmers Workshop (Puno-Acora) 슬라이드 보기 </summary>
+<table>
+<tr>
+<td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_01.PNG" alt="Acocro Slide 1" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_02.PNG" alt="Acocro Slide 2" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_03.PNG" alt="Acocro Slide 3" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_04.PNG" alt="Acocro Slide 4" width="100%"></td>
+</tr>
+<tr>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_05.PNG" alt="Acocro Slide 5" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_06.PNG" alt="Acocro Slide 6" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_07.PNG" alt="Acocro Slide 7" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_08.PNG" alt="Acocro Slide 8" width="100%"></td>
+</tr>
+<tr>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_09.PNG" alt="Acocro Slide 9" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_10.PNG" alt="Acocro Slide 10" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_11.PNG" alt="Acocro Slide 11" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_12.PNG" alt="Acocro Slide 12" width="100%"></td>
+</tr>
+<tr>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_13.PNG" alt="Acocro Slide 13" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_14.PNG" alt="Acocro Slide 14" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_15.PNG" alt="Acocro Slide 15" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_16.PNG" alt="Acocro Slide 15" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_17.PNG" alt="Acocro Slide 15" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Acocro_slidesImg/acora_18.PNG" alt="Acocro Slide 15" width="100%"></td>
+<td></td>
+</tr>
+</table>
+</details>
+***
+
 🌿 Puno-Acora PGA Farmers' Workshop in October 15 2026 🌿
 
 <details>
