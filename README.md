@@ -1,6 +1,6 @@
 # 🌾 2026 PGA Farmers' Workshop in each PGA sites
 
-🌿 Puno-Acora PGA Farmers' Workshop in October 16 2026 🌿
+🌿 Puno-Acora PGA Farmers' Workshop in October 15 2026 🌿
 
 <details>
 <summary>📊 261020 Crop GDD Farmers Workshop (Puno-Acora) 슬라이드 보기 </summary>
