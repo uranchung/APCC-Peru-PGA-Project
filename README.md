@@ -13,5 +13,6 @@
 
 </details>
 
-Open in ["https://docs.google.com/presentation/d/14XYh2SNL7ySm1JpXyenW544CaF_oQuLA/edit?usp=sharing&ouid=108676790085894673597&rtpof=true&sd=true"]
+
+
 ***
