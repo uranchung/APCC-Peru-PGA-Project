@@ -1,6 +1,29 @@
 # 🌾 2026 PGA Farmers' Workshop in each PGA sites
-🌿 Ayacucho-Acocro PGA Farmers' Workshop in October 17 2026 🌿
 
+🌿 Puno-Acora PGA Farmers' Workshop in October 16 2026 🌿
+
+<details>
+<summary>📊 261020 Crop GDD Farmers Workshop (Puno-Acora) 슬라이드 보기 </summary>
+<table>
+<tr>
+<td width="25%"><img src="./2026_PGA_Workshop-Oct/2026_FarmerWS_Acora_slides/acora_slide_01.PNG" alt="Motupe Slide 1" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-Oct/2026_FarmerWS_Acora_slides/acora_slide_02.PNG" alt="Motupe Slide 2" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-Oct/2026_FarmerWS_Acora_slides/acora_slide_03.PNG" alt="Motupe Slide 3" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-Oct/2026_FarmerWS_Acora_slides/acora_slide_04.PNG" alt="Motupe Slide 4" width="100%"></td>
+</tr>
+<tr>
+<td><img src="./2026_PGA_Workshop-Oct/2026_FarmerWS_Acora_slides/acora_slide_05.PNG" alt="Motupe Slide 5" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-Oct/2026_FarmerWS_Acora_slides/acora_slide_06.PNG" alt="Motupe Slide 6" width="100%"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+</details>
+
+
+🌿 Ayacucho-Acocro PGA Farmers' Workshop in October 17 2026 🌿
 
 <details>
 <summary>📊 261020 PGA Farmers Workshop (Ayacucho-Acocro) 슬라이드 보기 </summary>
@@ -35,7 +58,7 @@
 
 🌾 Lambayeque-Motupe PGA Farmers' Workshop in October 21 2026 🌾
 <details>
-<summary>📊 261020 Coffee GDD Farmers Workshop (Motupe) 슬라이드 보기 </summary>
+<summary>📊 261020 Coffee GDD Farmers Workshop (Lambayeque-Motupe) 슬라이드 보기 </summary>
 <table>
 <tr>
 <td width="25%"><img src="./2026_PGA_Workshop-Oct/2026_FarmerWS_Motupe_slides/motupe_slide_01.PNG" alt="Motupe Slide 1" width="100%"></td>
