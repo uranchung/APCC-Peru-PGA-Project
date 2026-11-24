@@ -56,7 +56,7 @@
 </details>
 
 
-🌾 Lambayeque-Motupe PGA Farmers' Workshop in October 21 2026 🌾
+🌾 Lambayeque-Motupe PGA Farmers' Workshop in October 20 2026 🌾
 <details>
 <summary>📊 261020 Coffee GDD Farmers Workshop (Lambayeque-Motupe) 슬라이드 보기 </summary>
 <table>
