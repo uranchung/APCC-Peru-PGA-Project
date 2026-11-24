@@ -34,6 +34,38 @@
 </table>
 </details>
 
+🌾 Lambayeque-Motupe PGA Farmers' Workshop in April 24 2026 🌾
+<details>
+<summary>📊 PGA Farmers Workshop (Lambayeque-Motupe) 슬라이드 보기 </summary>
+<table>
+<tr>
+<td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_01.PNG" alt="Motupe Slide 1" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_02.PNG" alt="Motupe Slide 2" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_03.PNG" alt="Motupe Slide 3" width="100%"></td>
+<td width="25%"><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_04.PNG" alt="Motupe Slide 4" width="100%"></td>
+</tr>
+<tr>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_05.PNG" alt="Motupe Slide 5" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_06.PNG" alt="Motupe Slide 6" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_07.PNG" alt="Motupe Slide 7" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_08.PNG" alt="Motupe Slide 8" width="100%"></td>
+</tr>
+<tr>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_09.PNG" alt="Motupe Slide 9" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_10.PNG" alt="Motupe Slide 10" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_11.PNG" alt="Motupe Slide 11" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_12.PNG" alt="Motupe Slide 12" width="100%"></td>
+</tr>
+<tr>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_13.PNG" alt="Motupe Slide 13" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_14.PNG" alt="Motupe Slide 14" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_15.PNG" alt="Motupe Slide 15" width="100%"></td>
+<td><img src="./2026_PGA_Workshop-April/2026_FarmerWS_Motupe_slidesImg/motupe_16.PNG" alt="Motupe Slide 16" width="100%"></td>
+<td></td>
+</tr>
+</table>
+</details>
+
 ***
 
 🌿 Puno-Acora PGA Farmers' Workshop in October 15 2026 🌿
